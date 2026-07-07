@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://www.unfair-kor.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/%20Visit%20Portfolio-black?style=for-the-badge" alt="About me">
+    <img src="https://img.shields.io/badge/%20About%20Me-black?style=for-the-badge" alt="About me">
   </a>
 </p>
 
@@ -22,10 +22,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   </a>
-</p>
-
-### Game Development & Scripting
-<p align="left">
   <a href="https://www.lua.org" target="_blank">
     <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" alt="Lua">
   </a>
