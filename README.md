@@ -28,4 +28,4 @@
 
 ### 📅 [Is it new year?](https://isitnewyear.pages.dev)
 > **A web service that answers whether it's the New Year.**
-* Inspired by *isitchristmas.com* — instantly displays a bold "YES" or "NO".
+* Inspired by *isitchristmas.com*
