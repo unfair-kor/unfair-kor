@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://www.unfair-kor.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/About%20Me-black?style=for-the-badge" alt="About me">
+    <img src="https://img.shields.io/badge/About%20Me-white?style=for-the-badge" alt="About me">
   </a>
 </p>
 
@@ -27,5 +27,5 @@
 * Features instant search & playback, queues, and loop modes.
 
 ### 📅 [Is it new year?](https://isitnewyear.pages.dev)
-> **A web service that answers whether it's the New Year.**
+> **A web service that answers whether it's January 1st.**
 * Inspired by *isitchristmas.com*
